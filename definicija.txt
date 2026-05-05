@@ -1,0 +1,24 @@
+Kibernetika je nauka o upravljanju oslonjena na:
+
+- teoriju informacija,
+- razvoj komunikacionih modela i
+- proučavanje povratnih sprega, kao i
+- kontrolnih mehanizama prenošenja informacija i upravljanja.
+  
+Razlikuje se od empirijskih nauka po tome što se ne interesuje za materijalnu formu, 
+nego za organizaciju, obrazac i komunikaciju kod celina.
+  
+Kibernetika se u raznim zemljama razvijala na različite načine.
+
+U zapadnim zemljama severoatlantske alijanse više ili manje ona se stopila sa opštom 
+teorijom sistema i ceo red struka koje su bili povezeni sa kibernetikom su se razvili 
+u samostalna područja, kao na primer:
+
+- informatika,
+- veštačka inteligencija ili
+- neuronska mreža.
+
+U zemljama istočnog bloka kibernetika je u početku, iz čisto ideoloških razloga, 
+smatrana za buržoasku kvazinauku. Počela je biti ponovo prihvaćena tokom 50-ih godina 
+i na kraju je postala krovna disciplina za mnoge struke koje su se u zemljama mimo 
+istočnog bloka osamostalile. Tako je npr. u sastavu kibernetike bila i informatika.
